@@ -1,6 +1,6 @@
 {
   "name": "react-antd-gen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create an empty background management system by react+antd+typescript",
   "main": "index.js",
   "bin": {
