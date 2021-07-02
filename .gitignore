@@ -1,0 +1,14 @@
+
+**/node_modules/**
+**/.vscode/**
+
+
+**/yarn.lock
+**/.DS_Store
+**/ncp-debug.log
+**/npm-debug.log
+**/yarn-error.log
+**/server/template/config.json
+
+#IDE
+**/*.iml

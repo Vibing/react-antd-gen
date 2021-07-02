@@ -1,0 +1,25 @@
+{
+  "name": "react-antd-gen",
+  "version": "1.0.0",
+  "description": "create an empty background management system by react+antd+typescript",
+  "main": "index.js",
+  "bin": {
+    "react-antd-gen": "./bin/index.js"
+  },
+  "type": "module",
+  "author": "ve",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-antd-cli",
+    "react-admin"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^8.0.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.1.1",
+    "log-symbols": "^5.0.0",
+    "ora": "^5.4.1"
+  }
+}
