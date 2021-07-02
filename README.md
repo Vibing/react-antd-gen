@@ -1,7 +1,9 @@
 ## 介绍
-这是一个脚手架，拉取一个空的后台管理系统，该套系统由 webpack5 + antd4 + typescript + mobx 组成
+这是一个脚手架，拉取一个空的后台管理系统
+该套系统由 webpack5 + antd4 + typescript + mobx 组成
 
-这是该套管理系统的在线实例：https://vibing.github.io/react-admin/index.html
+在线Demo：https://vibing.github.io/react-admin/index.html
+
 你可以拿过来直接用，只需要在系统内开发页面即可
 
 ## 使用
